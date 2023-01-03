@@ -1,0 +1,28 @@
+{
+  "bin": {
+    "spyify": "index.js"
+  },
+  "name": "spyify",
+  "version": "2.0.0",
+  "description": "Track your friends' Spotify listening activity anywhere.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onurravli/spyify.git"
+  },
+  "keywords": [
+    "spyify",
+    "spotify",
+    "spotify-api",
+    "spotify-web-api"
+  ],
+  "author": "Onur Ravli",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/onurravli/spyify/issues"
+  },
+  "homepage": "https://github.com/onurravli/spyify#readme"
+}
